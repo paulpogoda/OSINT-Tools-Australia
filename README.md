@@ -6,7 +6,7 @@ A list of OSINT resources tools that may be useful to you when conducting invest
 - [Australian OSINT Public Data Sources](https://osint.fans/australia-osint-data-sources)
 - [Australian OSINT](https://start.me/p/L10kJ6/australian-osint)
 
-## Table of content:
+## Table of contents:
  - [Open Data portals](#open-data-portals)
  - [Legal Entities](#legal-entities)
  - [Cadastral and other Maps](#maps)
