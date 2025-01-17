@@ -120,4 +120,4 @@ Your target may have been mentioned in an old newspaper article or other archive
 - [Australian Domain Name WHOIS Search & Lookup](https://www.domainregistration.com.au/domains/whois/)
 
 ## Contributions
-Fell free to contribute  to this repo or project — [OSINT For Countries V2.0](https://github.com/paulpogoda/OSINT-for-countries-V2.0)
+Feel free to contribute to this repo or project — [OSINT For Countries V2.0](https://github.com/paulpogoda/OSINT-for-countries-V2.0)
