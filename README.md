@@ -30,6 +30,7 @@ A list of OSINT resources tools that may be useful to you when conducting invest
 Your target may have been mentioned in an old newspaper article or other archived media. You can use the following services to attempt to dig up any relevant information:
 
 - [Trove](https://trove.nla.gov.au/). Trove is a vast archive of Australian media made available for free online by the National Library of Australia. It is an invaluable investigation resource
+- [Trove Guide](https://tdg.glam-workbench.net/who-and-how.html)
 - [National Archives of Australia](https://www.naa.gov.au/). The NAA are suited for searches of government records, and may contain some helpful information
 - [National Film and Sound Archive of Australia](https://www.nfsa.gov.au/)
 - [Australian Broadcasting Corporation Archives](https://www.abc.net.au/archives/contact.htm)
