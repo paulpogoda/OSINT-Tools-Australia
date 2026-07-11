@@ -119,6 +119,7 @@ Your target may have been mentioned in an old newspaper article or other archive
 - [WHOIS AU](https://whois.auda.org.au)
 - [VenraIP](https://ventraip.com.au/whois/?srsltid=AfmBOoqn7aKfsy0rIqAGvB8k8C1mf99UzdQ6sNYfNTAazUe6UdzikBNY)
 - [Australian Domain Name WHOIS Search & Lookup](https://www.domainregistration.com.au/domains/whois/)
+- [DNSai](https://dnsai.com/whois/) - Free WHOIS, DNS and email-authentication lookups for any domain (works on .au and global); plain-English results, no signup.
 
 ## Contributions
 Feel free to contribute to this repo or project — [OSINT For Countries V2.0](https://github.com/paulpogoda/OSINT-for-countries-V2.0)
